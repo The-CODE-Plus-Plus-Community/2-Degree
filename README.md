@@ -1,12 +1,12 @@
 # ✨ Project 2 Degree 🌡️
 
-<img src="./public/save-earth.webp" alt="Save Earth" height="250">
+<img src="./public/save-earth.webp" alt="Save Earth" height="450">
 
 ## 🌟 Our Motto
 
 ### "Pledge 2 be Cool and make Earth 2&#176; Cooler"
 
-## 🌟Introduction
+## 🌟 Introduction
 
 #### "Earth provides enough to satisfy every man's need but not every man's greed."
 
@@ -14,7 +14,7 @@
 * It's being __predicted__ that by the next century __Earth__ will see a rise of nearly __5&#176;C__ in the global __temperature__ due to __Global warming__.
 * __Team 2&#176;__ believes this rise in temperature can be __restrained__ to __2&#176;C__ and aims to make it a __reality__ with this project .
 
-## 🌟Problem Statement
+## 🌟 Problem Statement
 
 * __What is Global warming?__
 
@@ -29,7 +29,7 @@
     * Climate change is already happening: temperatures are rising, drought and wild fires are starting to occur more frequently, rainfall patterns are shifting, glaciers and snow are melting and the global mean sea level is rising.
 
 
-##  🌟Problem Solution
+##  🌟 Problem Solution
 
 * __Project 2&#176;__ has __simulated__ to design the most __opitimal scenario__ to restrain the rise in global temperature due to global warming.
 * In this Project __Team 2&#176;__ took into consideration __factors__ such as:
@@ -61,9 +61,18 @@
  
   which are working efficiently towards __Net-Zero Carbon__ , __Carbon Neutrality__ or simply __Carbon Removal__.
 
+* __Team 2&#176;__ has used [En-ROADS](https://en-roads.climateinteractive.org/scenario.html?v=21.8.0) to simulate the __optimal solution__ which is __practical__ and __achievable__. En-ROADS is a __transparent simulator__ developed by Climate Interactive, Ventana Systems, and __MIT__ Sloan and has been __calibrated against__ a wide range of existing __integrated__ assessment, __climate and energy models__.
 
+![En-ROADS Simulation](public/simulation.gif)
 
-## ✨Hall Of Contributors
+##  🌟 Tech Stack and Resources
+  
+  * HTML
+  * CSS
+  * JS
+  * [En-ROADS](https://www.climateinteractive.org/tools/en-roads/) SIMULATOR
+
+## ✨ Hall Of Contributors
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
 
